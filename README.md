@@ -114,6 +114,6 @@ All challenges were solved in legal environments such as CTF competitions, labor
 
 ## Author
 
-Abdellah Mouhim
+x4bdelx
 
-Cybersecurity Student | DFIR | SOC | Pentesting | OSINT
+Cybersecurity Student | CTF Player | BugBounty Hunter
